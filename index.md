@@ -14,3 +14,4 @@
 * 学习一些图绘制工具，美化图算法文章的图
 * 了解创建repository的.gitignore和license等选项的功能
 * 完成[Floyd-Warshall算法计算最短路条数](.\《数据结构》内容补充\FloydShortestPathCount.html)中对算法正确性的证明
+* 实现网站文件的本地编辑与同步更新
